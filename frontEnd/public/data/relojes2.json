@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1001,
+      "marca": "Marca A",
+      "modelo": "Modelo 1",
+      "precio": 149.99,
+      "fecha_registro": "2024-05-17",
+      "stock": 25,
+      "estado": "Disponible"
+    },
+    {
+      "id": 1002,
+      "marca": "Marca B",
+      "modelo": "Modelo 2",
+      "precio": 199.99,
+      "fecha_registro": "2024-05-16",
+      "stock": 15,
+      "estado": "Agotado"
+    },
+    {
+      "id": 1003,
+      "marca": "Marca C",
+      "modelo": "Modelo 3",
+      "precio": 99.99,
+      "fecha_registro": "2024-05-15",
+      "stock": 30,
+      "estado": "Disponible"
+    },
+    {
+      "id": 1004,
+      "marca": "Marca D",
+      "modelo": "Modelo 4",
+      "precio": 129.99,
+      "fecha_registro": "2024-05-14",
+      "stock": 20,
+      "estado": "Disponible"
+    },
+    {
+      "id": 1005,
+      "marca": "Marca E",
+      "modelo": "Modelo 5",
+      "precio": 179.99,
+      "fecha_registro": "2024-05-13",
+      "stock": 10,
+      "estado": "Agotado"
+    },
+    {
+      "id": 1006,
+      "marca": "Marca F",
+      "modelo": "Modelo 6",
+      "precio": 299.99,
+      "fecha_registro": "2024-05-12",
+      "stock": 5,
+      "estado": "Disponible"
+    },
+    {
+      "id": 1007,
+      "marca": "Marca G",
+      "modelo": "Modelo 7",
+      "precio": 249.99,
+      "fecha_registro": "2024-05-11",
+      "stock": 12,
+      "estado": "Disponible"
+    },
+    {
+      "id": 1008,
+      "marca": "Marca H",
+      "modelo": "Modelo 8",
+      "precio": 349.99,
+      "fecha_registro": "2024-05-10",
+      "stock": 8,
+      "estado": "Agotado"
+    },
+    {
+      "id": 1009,
+      "marca": "Marca I",
+      "modelo": "Modelo 9",
+      "precio": 199.99,
+      "fecha_registro": "2024-05-09",
+      "stock": 18,
+      "estado": "Disponible"
+    },
+    {
+      "id": 1010,
+      "marca": "Marca J",
+      "modelo": "Modelo 10",
+      "precio": 159.99,
+      "fecha_registro": "2024-05-08",
+      "stock": 22,
+      "estado": "Disponible"
+    },
+    {
+      "id": 1011,
+      "marca": "Marca K",
+      "modelo": "Modelo 11",
+      "precio": 219.99,
+      "fecha_registro": "2024-05-07",
+      "stock": 14,
+      "estado": "Agotado"
+    },
+    {
+      "id": 1012,
+      "marca": "Marca L",
+      "modelo": "Modelo 12",
+      "precio": 169.99,
+      "fecha_registro": "2024-05-06",
+      "stock": 9,
+      "estado": "Disponible"
+    }
+  ]
